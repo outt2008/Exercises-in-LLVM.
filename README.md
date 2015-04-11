@@ -3,7 +3,7 @@
 # Exercises-in-LLVM.
 I create toy language to learn LLVM.
 
-# Zen of this lang
+## Zen of this lang
 
 - Pythonic.
 - Everything is an expression.
