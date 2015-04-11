@@ -1,7 +1,7 @@
 
 
 # Exercises-in-LLVM.
-I create simple language to learn LLVM.
+I create toy language to learn LLVM.
 
 # Zen of this lang
 
