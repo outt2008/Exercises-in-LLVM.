@@ -3,20 +3,19 @@
 # Exercises-in-LLVM.
 I create toy language to learn LLVM.
 
-## Zen of this lang
+# Goal
 
-- Pythonic.
-- Everything is an expression.
+- Learn LLVM basis.
+- Implement some features shown below.
 
 ## Variable & Value
+
+	# Value should be easily usable.
 
 	a = 1  # variable
 	b : 1  # value
 
 	a = 2  # ok
 	b = 2  # error
-
-## Function
-
-	sum = a  b -> a + b
 	
+## Everything is an Expression.
